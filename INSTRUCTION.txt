@@ -1,0 +1,3 @@
+*The game is very simple. It's called Odd or Even. 
+*You just have to choose your answer if the displayed number is "Odd" or "Even" number.
+*If you answered 10 of the displayed numbers, your score will appear at the end of the game.
